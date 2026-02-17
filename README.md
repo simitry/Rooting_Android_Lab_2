@@ -1,9 +1,9 @@
 # Rapport – Rooting et Sécurité Android
 
-Date / Auteur : Saad Makkouch
-Support : AVD – Pixel 6 Android 16.0 (x86_64)
-Données : Fictives
-Réseau : Environnement de test isolé
+* Date / Auteur : Saad Makkouch
+* Support : AVD – Pixel 6 Android 16.0 (x86_64)
+* Données : Fictives
+* Réseau : Environnement de test isolé
 
 ## Verification
 <img width="399" height="128" alt="image" src="https://github.com/user-attachments/assets/f2291ed8-caf4-43f2-9823-b5a50e08df57" />
