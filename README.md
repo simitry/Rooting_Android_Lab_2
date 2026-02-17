@@ -45,10 +45,6 @@ Si le démarrage est compromis, toutes les protections ultérieures peuvent êtr
 <img width="607" height="85" alt="image" src="https://github.com/user-attachments/assets/9cdd9acb-dd34-4a9f-9aeb-54a5e66357bd" />
 
 
-📸 Screenshot à insérer ici :
-Résultat de la commande :
-getprop ro.boot.verifiedbootstate
-
 ## 3. AVB – Android Verified Boot (Étape 8)
 
 AVB est la version moderne de Verified Boot, plus flexible et plus robuste.
@@ -61,8 +57,6 @@ Bootloader → Kernel → System → Services → Applications
 <img width="605" height="41" alt="image" src="https://github.com/user-attachments/assets/a525c35c-f02d-4ac2-a929-46a6cd8f9f72" />
 
 
-
-📸 Screenshot facultatif :
 Écran Device Manager montrant l’AVD utilisé.
 
 ## 4. Définition du rooting (Étape 9 – 4 phrases)
